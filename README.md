@@ -23,5 +23,5 @@ StudySnap is a Chrome extension that transforms YouTube videos into concise, str
 ---
 
 ## IN-MAKING!!
-
+Learning the tools used for makin it
 
